@@ -1,0 +1,31 @@
+#h{
+    border-radius:50%;
+
+}
+#t{
+    color:darkgoldenrod;
+
+}
+table{
+    border-collapse:separate ;
+    border-style: groove;
+    border-spacing: 20px;
+    border-width: 10px;
+    padding: 10px;
+    border-bottom-color: blue;
+    border-left-color:chartreuse;
+    border-right-color: darkorange;
+    border-top-color: chocolate;
+    border-radius: 10px;
+    
+
+}
+.empty{
+    border:1px solid rgb(0, 0, 0)
+
+
+
+}
+.n{
+    color:burlywood;
+}
